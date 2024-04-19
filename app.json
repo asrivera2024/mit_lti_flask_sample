@@ -8,7 +8,7 @@
     "Open edX"
   ],
   "website": "http://mit-lti-flask-example.readthedocs.org/en/latest/",
-  "repository": "https://github.com/mitodl/mit_lti_flask_sample",
+  "repository": "https://github.com/asrivera2024/mit_lti_flask_sample",
   "success_url": "/is_up",
   "env": {
     "FLASK_SECRET_KEY": {
